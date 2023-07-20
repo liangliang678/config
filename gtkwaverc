@@ -1,0 +1,44 @@
+
+#
+# sample .gtkwaverc file that works fine with verilog xl
+#
+hier_max_level 1
+dynamic_resizing 1
+use_maxtime_display 0
+
+enable_vcd_autosave 0
+use_roundcaps 1
+
+use_nonprop_fonts yes
+enable_horiz_grid yes
+use_big_fonts 12
+constant_marker_update yes
+show_grid yes
+show_base_symbols no
+use_roundcaps yes
+
+atomic_vectors yes
+vcd_explicit_zero_subscripts no
+
+
+#
+# color additions
+#
+color_back   ffffff
+color_grid   bebebe
+color_1      008000
+color_high   008000
+color_low    008000
+color_trans  008000
+color_mid    c0c000
+
+color_value  000000
+color_vbox   008000
+color_vtrans 008000
+
+
+color_umark  ff8080
+color_mark   3366ff
+
+color_time   000000
+color_timeb  ffffff
