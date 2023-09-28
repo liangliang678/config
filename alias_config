@@ -1,2 +1,2 @@
 alias glog='git log --graph --decorate --oneline'
-
+alias mv='mv -i'
