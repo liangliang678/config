@@ -113,3 +113,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Import alias
 [[ ! -f ~/config/alias_config ]] || source ~/config/alias_config
+
+export PATH=/home/liang/Documents/loongarch64-linux-gnu-2022-01-26-vector/bin:$PATH
+export PATH=/home/liang/Documents/loongarch32r-linux-gnusf-2022-05-20/bin:$PATH
+export PATH=/home/liang/Documents/arm-gnu-toolchain-13.2.Rel1-x86_64-aarch64-none-linux-gnu/bin:$PATH
